@@ -1,0 +1,29 @@
+
+praka@LAPTOP-PDP3LM63 MINGW64 ~/Desktop/github
+$ git config --global user.email
+
+praka@LAPTOP-PDP3LM63 MINGW64 ~/Desktop/github
+$ git config --global user.email prakash.maramwar1991@gmail.com
+
+praka@LAPTOP-PDP3LM63 MINGW64 ~/Desktop/github
+$ git config --global user.name "PrakashMaramwar"
+
+praka@LAPTOP-PDP3LM63 MINGW64 ~/Desktop/github
+$ git init
+Initialized empty Git repository in C:/Users/praka/Desktop/github/.git/
+
+praka@LAPTOP-PDP3LM63 MINGW64 ~/Desktop/github (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        file1.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+praka@LAPTOP-PDP3LM63 MINGW64 ~/Desktop/github (master)
+$ git add file1.txt
+
